@@ -1,0 +1,18 @@
+.topmenu li{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: auto;
+    text-decoration: none;
+}
+button{
+    border: none;
+    border-radius: 30px;
+    height:38px ;
+    width: 100px;
+    background-color:rgba(165, 42, 42, 0.388);
+    margin-top: 5px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
